@@ -14,9 +14,10 @@
 
 ---
 
-- 💼 Currently working at **RecargaPay**
-- 📱 Learning **Mobile Development**
-- 🚀 Passionate about building great user experiences
+- 💼 Working at **RecargaPay** as a Front-End Dev & React Native Specialist
+- 📱 Shipping apps to **iOS & Android** on the daily
+- 🤖 Currently diving deep into **AI** — doing a postgrad in Applied AI Engineering
+- ☕ Powered by coffee and curiosity
 
 ---
 
